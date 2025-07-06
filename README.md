@@ -6,6 +6,13 @@
   <li>Class Inheritance</li>
 </ul>
 
+<h2>Video of Snake Game</h2>
+
+<div width = 150px>
+  <img src="snake_compressed.gif"/>
+</div>
+
+
 <h2>Why am I doing this?</h2>
 <p>I have learned python before in school but I hope to revisit some of the python concepts that I may have forgotten and at the same time delve further into python, especially in the field of data science and visualisation.</p>
 
